@@ -203,7 +203,7 @@ main {
     max-width: 900px;
   }
   .main-image-container {
-    width: 45%;
+    width: 40%;
     height: 100%;
   }
   .drawers-image {
@@ -212,7 +212,7 @@ main {
   }
  
   .text-content-container {
-    width: 55%;
+    width: 60%;
     padding: 2rem;
   }
 }
