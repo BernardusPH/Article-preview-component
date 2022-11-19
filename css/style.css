@@ -200,7 +200,8 @@ main {
 @media (min-width: 1001px) {
   main {
     flex-direction: row;
-    max-width: 900px;
+    max-width: 850px;
+    height:390px;
   }
   .main-image-container {
     width: 40%;
